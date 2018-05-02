@@ -1,0 +1,21 @@
+{
+  "name": "fb-data-scrapper",
+  "version": "0.1.0",
+  "description": " A desktop app to load your dowloaded facebook data and see all kinds of cool stats from it.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/MatthieuJnon/fb-data-scrapper",
+  "keywords": [
+    "Facebook",
+    "data",
+    "scrapper",
+    "visualization"
+  ],
+  "author": "Matthieu Joannon",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.8.4"
+  }
+}
